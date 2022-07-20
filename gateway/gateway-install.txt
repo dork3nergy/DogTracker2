@@ -1,0 +1,5 @@
+Push these files to your ESP32 that has uPython loaded on it.
+
+There is a bunch of instruction on the uPython site that should help you do that.
+
+https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
