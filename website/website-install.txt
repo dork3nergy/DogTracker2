@@ -1,0 +1,15 @@
+These are files should go in your website hosting directory.  For me that's /var/www/html
+
+
+You'll need to install:
+
+Apache
+PHP
+mysql-php
+
+You can then see the map at :
+
+http://<your server>/tracker
+
+
+Sorry these instructions are so scant, it's meant as a guide, not a plug-and-play thing,
