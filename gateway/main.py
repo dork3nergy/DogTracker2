@@ -1,6 +1,5 @@
 # LoRa
 from config import *
-from lorafunc import * 
 import machine
 from machine import Pin, SoftSPI, deepsleep, ADC, RTC
 from sx127x import SX127x
